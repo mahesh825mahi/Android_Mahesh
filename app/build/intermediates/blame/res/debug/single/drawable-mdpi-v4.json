@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-mdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-mdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-mdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_arrow_forward_white_24px.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.github.paolorotolo\\appintro\\3.3.0\\res\\drawable-mdpi-v4\\ic_arrow_forward_white_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cast_ic_notification_on.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.0\\res\\drawable-mdpi-v4\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cast_ic_notification_2.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.0\\res\\drawable-mdpi-v4\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-mdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\places_ic_clear.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-mdpi-v4\\places_ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_navigate_next_white_24dp.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.github.paolorotolo\\appintro\\3.3.0\\res\\drawable-mdpi-v4\\ic_navigate_next_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\places_ic_search.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-mdpi-v4\\places_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-mdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cast_ic_notification_1.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.0\\res\\drawable-mdpi-v4\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cast_ic_notification_0.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.0\\res\\drawable-mdpi-v4\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_done_white_24px.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.github.paolorotolo\\appintro\\3.3.0\\res\\drawable-mdpi-v4\\ic_done_white_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.jpg",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\powered_by_google_light.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-mdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    }
+]

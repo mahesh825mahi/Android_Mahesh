@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_done_white_24px.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.github.paolorotolo\\appintro\\3.3.0\\res\\drawable-xxxhdpi-v4\\ic_done_white_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_light.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-xxxhdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-xxxhdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_search.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-xxxhdpi-v4\\places_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_arrow_forward_white_24px.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.github.paolorotolo\\appintro\\3.3.0\\res\\drawable-xxxhdpi-v4\\ic_arrow_forward_white_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_navigate_next_white_24dp.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.github.paolorotolo\\appintro\\3.3.0\\res\\drawable-xxxhdpi-v4\\ic_navigate_next_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_clear.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-xxxhdpi-v4\\places_ic_clear.png"
+    }
+]
