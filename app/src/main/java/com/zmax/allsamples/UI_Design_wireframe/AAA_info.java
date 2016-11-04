@@ -5,6 +5,8 @@ package com.zmax.allsamples.UI_Design_wireframe;
 public class AAA_info
 {
 
+    //For All Best one
+    //http://zippypixels.com/product/mobile/ui-kits/zoom-ui-kit/
 
     //NativeBase
     //http://nativebase.io/
@@ -14,7 +16,6 @@ public class AAA_info
 
     //20 Stunning Mobile App Designs Featuring Graphs & Charts
     //http://theultralinx.com/2014/08/20-stunning-mobile-app-designs-featuring-graphs-charts/
-
 
     //https://in.pinterest.com/pin/380765343476017733/
     //https://in.pinterest.com/pin/257620041163093967/

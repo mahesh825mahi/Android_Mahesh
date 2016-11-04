@@ -6,4 +6,8 @@ package com.zmax.allsamples.widgets.WebView;
 public class AAA_info {
     //Alternative of web view to diplay audi video content
     //https://android-arsenal.com/details/1/4193
+
+
+    //Android Advanced webview
+    //http://www.androhub.com/android-advance-webview/
 }

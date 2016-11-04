@@ -1,0 +1,14 @@
+package com.zmax.allsamples.widgets.Progressbar;
+
+/**
+ * Created by 310266936 on 10/26/2016.
+ */
+
+public class AAA_info {
+
+    //Material Progressbar
+    //http://www.appance.com/tag/progress-indicator/
+
+    //Download Progressbar
+    //http://www.appance.com/downloadprogressbar/
+}

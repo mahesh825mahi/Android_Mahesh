@@ -17,7 +17,7 @@ public class AndroidSQLiteTutorialActivity extends Activity {
         setContentView(R.layout.activity_register);
         
         DatabaseHandler db = new DatabaseHandler(this);
-        
+
         /**
          * CRUD Operations
          * */
@@ -27,7 +27,7 @@ public class AndroidSQLiteTutorialActivity extends Activity {
         db.addContact(new Contact("Srinivas", "9199999999"));
         db.addContact(new Contact("Tommy", "9522222222"));
         db.addContact(new Contact("Karthik", "9533333333"));
- 
+
         // Reading all contacts
         Log.d("Reading: ", "Reading all contacts..");
         List<Contact> contacts = db.getAllContacts();

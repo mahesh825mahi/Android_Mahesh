@@ -5,8 +5,6 @@ package com.zmax.allsamples.AAA_site.MaterialDesign;
  */
 public class AAA_info {
 
-    //-------------------------------Sit--custom actionbar , login page design, horizontal scrollview
-    //http://sourcey.com/tags/android/
 
     //------------------------All Material Design styles
     //https://github.com/Suleiman19/Android-Material-Design-for-pre-Lollipop
