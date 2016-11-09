@@ -5,6 +5,14 @@ package com.zmax.allsamples.System.Permissions;
  */
 
 public class AAA_info {
+
+    //Run Time Permission
+    //http://www.journaldev.com/10409/android-handling-runtime-permissions-example
+    //http://www.android-examples.com/request-check-multiple-runtime-permissions-android-marshmallow/
+
+    //App-Runtime-Permissions-Android (Library)
+    //https://github.com/mukeshsolanki/App-Runtime-Permissions-Android
+
     //HomeAndroidAndroid 6 Marshmallow Runtime Permissions Request Example
         //http://inducesmile.com/android/android-6-marshmallow-runtime-permissions-request-example/
 

@@ -6,6 +6,9 @@ package com.zmax.allsamples.DataBinding;
 
 public class AAA_info {
 
+    //Data Binding
+    //http://www.journaldev.com/11780/android-data-binding
+
     //Good example***
     //http://www.androidauthority.com/data-binding-in-android-709747/
 

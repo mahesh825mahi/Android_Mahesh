@@ -1,5 +1,4 @@
 package com.zmax.allsamples.widgets.SearchView;
-
 /**
  * Created by Kasturi on 17-Aug-16.
  */

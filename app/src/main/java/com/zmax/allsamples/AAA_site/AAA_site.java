@@ -4,9 +4,9 @@ package com.zmax.allsamples.AAA_site;
  */
 public class AAA_site
 {
+    //Android and Java con
     //All Material Designs
     //http://www.tutorialsbuzz.com
-
 
     //New lib and updates
     //https://inthecheesefactory.com/

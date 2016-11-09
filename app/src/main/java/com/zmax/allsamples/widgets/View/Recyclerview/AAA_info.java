@@ -4,6 +4,32 @@ package com.zmax.allsamples.widgets.View.Recyclerview;
  */
 public class AAA_info
 {
+
+
+ /*   recyclerView.setHasFixedSize(true);
+
+    // ListView
+    recyclerView.setLayoutManager(new LinearLayoutManager(this));
+
+    //Grid View
+    // recyclerView.setLayoutManager(new GridLayoutManager(this,2,1,false));
+
+    //StaggeredGridView
+    // recyclerView.setLayoutManager(new StaggeredGridLayoutManager(2,1));
+
+    // create an Object for Adapter
+    mAdapter = new CardViewDataAdapter(os_versions);
+
+    // set the adapter object to the Recyclerview
+    recyclerView.setAdapter(mAdapter);*/
+
+
+
+
+
+
+
+
     //Recyclerview Details Add, Remove, Change, Animation
     //http://www.androhub.com/recylerview-animation/
 
