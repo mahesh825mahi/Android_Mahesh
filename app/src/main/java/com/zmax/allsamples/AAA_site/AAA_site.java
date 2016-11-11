@@ -4,7 +4,13 @@ package com.zmax.allsamples.AAA_site;
  */
 public class AAA_site
 {
-    //Android and Java con
+
+    //Playing different Videos with Exo-Player in Android TV
+    //http://www.tothenew.com/blog/category/technology/android/
+
+    //Android and Java concepts
+
+
     //All Material Designs
     //http://www.tutorialsbuzz.com
 

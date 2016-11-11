@@ -6,7 +6,10 @@ package com.zmax.allsamples.networks.Rotrio;
 
 public class AAA_info {
 
-    //
+    //Clear Explanation
+    //http://www.pratikbutani.com/2016/05/android-tutorial-json-parsing-using-retrofit-part-1/
+
+
     //https://github.com/codepath/android_guides/wiki/Consuming-APIs-with-Retrofit
     //http://www.androidtutorialpoint.com/networking/retrofit-android-tutorial/
     //https://www.sitepoint.com/retrofit-a-simple-http-client-for-android-and-java/

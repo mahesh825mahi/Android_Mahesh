@@ -6,6 +6,12 @@ package com.zmax.allsamples.Components.db;
 
 public class AA_info
 {
+    //SQLite Locking and Transaction Handling in Android
+    //http://www.tothenew.com/blog/sqlite-locking-and-transaction-handling-in-android/
+
+    //Android Database Sqlite : Handling creation and upgrade
+    //http://www.michenux.net/android-database-sqlite-creation-upgrade-245.html
+
     //Android Sqlite Database
     //http://www.androhub.com/android-sqlite-database/
 

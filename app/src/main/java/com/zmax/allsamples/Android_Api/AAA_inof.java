@@ -1,4 +1,4 @@
-package com.zmax.allsamples.Api;
+package com.zmax.allsamples.Android_Api;
 
 /**
  * Created by Kasturi on 21-Sep-16.
