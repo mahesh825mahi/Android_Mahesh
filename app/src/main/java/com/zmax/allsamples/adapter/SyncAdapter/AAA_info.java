@@ -4,6 +4,12 @@ package com.zmax.allsamples.adapter.SyncAdapter;
  */
 public class AAA_info
 {
+    //Syncing Contacts with an Android Application
+    //http://blogs.quovantis.com/syncing-contacts-with-an-android-application-2/
+
+    //Sync Adapter in Android – A Simple Example (coderzheaven)
+    //http://www.coderzheaven.com/2015/07/04/sync-adapter-android-simple-example/
+
     //Android Site
     //https://developer.android.com/training/sync-adapters/creating-sync-adapter.html
 
@@ -15,7 +21,6 @@ public class AAA_info
     
     //Youtube
             //https://www.youtube.com/watch?v=DaSgkc_bDkE
-
                 /*
                 1. We are going to create 2 services
                 2. Each service primary perpose for delevering object to reprecent the android binder
@@ -26,7 +31,6 @@ public class AAA_info
 
                 */
             //https://www.youtube.com/watch?v=ihtyTpOfbMc
-
 
     //http://www.coderzheaven.com/2015/07/04/sync-adapter-android-simple-example/
 
@@ -55,6 +59,5 @@ public class AAA_info
 
     3. UserDatas: Additionally the user can save user data as the pair key/value of type String.
     This is useful when extra data are associated with the account whom are not password neither auth token.
-
     */
 }

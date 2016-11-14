@@ -6,7 +6,6 @@ package com.zmax.allsamples.Android_Api;
 
 public class AAA_inof
 {
-
 //Securing Your Android Apps with the Fingerprint API
     //https://www.sitepoint.com/securing-your-android-apps-with-the-fingerprint-api/
 

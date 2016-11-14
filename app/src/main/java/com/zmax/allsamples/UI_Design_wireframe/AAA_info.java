@@ -4,7 +4,6 @@ package com.zmax.allsamples.UI_Design_wireframe;
  */
 public class AAA_info
 {
-
     //For All Best one
     //http://zippypixels.com/product/mobile/ui-kits/zoom-ui-kit/
 

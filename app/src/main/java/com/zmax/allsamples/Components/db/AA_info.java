@@ -6,6 +6,9 @@ package com.zmax.allsamples.Components.db;
 
 public class AA_info
 {
+    //SQLite Database Manipulation Class - Android Example
+    //http://androidexample.com/SQLite_Database_Manipulation_Class_-_Android_Example/index.php?view=article_discription&aid=51
+
     //SQLite Locking and Transaction Handling in Android
     //http://www.tothenew.com/blog/sqlite-locking-and-transaction-handling-in-android/
 
