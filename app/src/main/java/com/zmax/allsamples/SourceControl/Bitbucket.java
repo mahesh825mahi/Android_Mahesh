@@ -8,10 +8,10 @@ public class Bitbucket
 {
     //Integrate BitBucket Plug-in Android Studio
     //http://www.praveenboyalapalli.com/2016/02/integrate-bitbucket-plug-in-android-studio/
-
     //
 
-    //
+    //Change the Server URL from CMD prompt
+    //git remote set-url origin <new URL>
 
-    //
+
 }

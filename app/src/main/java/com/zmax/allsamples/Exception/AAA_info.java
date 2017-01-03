@@ -1,9 +1,17 @@
-package com.zmax.allsamples.Error;
+package com.zmax.allsamples.Exception;
 /**
  * Created by Maheswaran on 10/5/2016.
  */
 public class AAA_info
 {
+    //Javacodegeeks
+    //https://www.javacodegeeks.com/2013/07/java-exception-handling-tutorial-with-examples-and-best-practices.html
+    //https://examples.javacodegeeks.com/java-basics/exceptions/java-custom-exception-example/
+
+    //While crashing show dialog message
+    //https://www.intertech.com/Blog/android-handling-the-unexpected/
+
+
     //Exception handling in java with example programs
     //http://beginnersbook.com/2013/04/user-defined-exception-in-java/
 

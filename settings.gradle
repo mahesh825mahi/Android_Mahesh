@@ -1,1 +1,1 @@
-include ':app', ':bfonics'
+include ':app'

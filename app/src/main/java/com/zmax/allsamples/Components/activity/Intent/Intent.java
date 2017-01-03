@@ -5,7 +5,6 @@ package com.zmax.allsamples.Components.activity.Intent;
  */
 public class Intent
 {
-
     //parceler library
     //https://github.com/johncarl81/parceler
 

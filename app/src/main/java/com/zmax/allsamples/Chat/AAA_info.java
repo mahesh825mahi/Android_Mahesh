@@ -5,6 +5,11 @@ package com.zmax.allsamples.Chat;
  */
 public class AAA_info
 {
+    //Xmpp detail example part1 and part2
+    //http://www.tutorialsface.com/tag/chat/
+
+    //Github and full Doc Example
+    //https://github.com/blikoon/Rooster
 
     //Xmpp and smack
     //https://github.com/igniterealtime/Smack/wiki/Smack-4.1-Readme-and-Upgrade-Guide

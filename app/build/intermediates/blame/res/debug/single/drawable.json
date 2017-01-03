@@ -112,12 +112,12 @@
         "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
         "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_profile.png",
         "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\src\\main\\res\\drawable\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",

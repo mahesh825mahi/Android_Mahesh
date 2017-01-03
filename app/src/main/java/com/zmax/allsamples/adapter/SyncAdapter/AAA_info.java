@@ -4,6 +4,16 @@ package com.zmax.allsamples.adapter.SyncAdapter;
  */
 public class AAA_info
 {
+    //Findal Android Developer site
+    //https://developer.android.com/training/sync-adapters/creating-sync-adapter.html#CreateSyncAdapterService
+    //Better example part1 and 2
+    //http://www.dmytrodanylyk.com/android-data-sync-part-1/
+    //http://www.dmytrodanylyk.com/android-data-sync-part-2/
+//Detailed Explanation
+    //http://www.digit.in/apps/handling-offline-capability-and-data-sync-in-an-android-app-part-1-25942.html
+
+    //Android Site Source
+        //https://developer.android.com/training/sync-adapters/index.html
     //Syncing Contacts with an Android Application
     //http://blogs.quovantis.com/syncing-contacts-with-an-android-application-2/
 
@@ -32,32 +42,23 @@ public class AAA_info
                 */
             //https://www.youtube.com/watch?v=ihtyTpOfbMc
 
+
+
+    //Have Source //
+//First
     //http://www.coderzheaven.com/2015/07/04/sync-adapter-android-simple-example/
+//Second
+    //http://www.coderzheaven.com/2015/06/30/account-authenticator-demo-accountmanager-android/
 
-//111-------------->//http://www.coderzheaven.com/2015/06/30/account-authenticator-demo-accountmanager-android/
-    //Account Authenticator Demo using AccountManager in Android
-    //Here in this demo we will try to create a Custom authenticator.
-    /*The account manager is a centralized service offered by Android system.
-        Any application can get the list of accounts and request the user to utilize its auth tokens.*/
 
-   /* Basically it contains a list of Accounts, each one is identified by:
-        1. Account name: The user name used to log in. For example, CoderzHeaven
-        2. Account type: The type of the account. For example, com.google
-    All the accounts should be unique across a device. This is, for a given device,
-    there cannot be any two accounts that have the same account name and account type.*/
+    //part 1
+    //http://www.c99.org/2010/01/23/writing-an-android-sync-provider-part-1/
 
-   /* For each one of the accounts, there is a set of data related with it:
-        1. Password: The password of the account. It could be empty also.
-    2. AuthTokens: The String used by the server to identify the user, instead of the password.
+    //part 2
+    //http://www.c99.org/2010/01/23/writing-an-android-sync-provider-part-2/
+        //Source
+            //https://github.com/c99koder/AndroidSyncProviderDemo/tree/master/src/org/c99/SyncProviderDemo
 
-    All the auth tokens have a type, called AuthTokenType.
-    This is because one account could be used for several services
-    and for each one of the service there could be different auth tokens
 
-    For example, the account of Google could be used for Gmail and Youtube.
-    The authTokenType of Gmail is “mail” and the authTokenType of YouTube is youtube.
 
-    3. UserDatas: Additionally the user can save user data as the pair key/value of type String.
-    This is useful when extra data are associated with the account whom are not password neither auth token.
-    */
 }

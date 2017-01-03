@@ -4,5 +4,7 @@ package com.zmax.allsamples.java.Collection;
  */
 public class AAAA_info
 {
+    //Collections in Java
+    //http://www.journaldev.com/1260/collections-in-java-tutorial
 
 }

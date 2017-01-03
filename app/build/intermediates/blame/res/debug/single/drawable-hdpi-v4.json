@@ -60,12 +60,12 @@
         "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\src\\main\\res\\drawable-hdpi\\intro_1.jpg"
     },
     {
-        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
-        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
-    },
-    {
         "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_on.png",
         "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.0\\res\\drawable-hdpi-v4\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
     },
     {
         "merged": "C:\\Users\\310266936\\OneDrive - Philips\\Mahesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",

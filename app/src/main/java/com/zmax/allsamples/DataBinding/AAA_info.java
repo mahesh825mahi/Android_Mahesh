@@ -6,6 +6,14 @@ package com.zmax.allsamples.DataBinding;
 
 public class AAA_info {
 
+    //I have watched fully
+    //https://www.youtube.com/watch?v=NLfKxEprWB4&t=1391s
+
+    //DataBinding video
+        //https://www.youtube.com/watch?v=kvhmPeUfJto
+
+
+
     //Data Binding
     //http://www.journaldev.com/11780/android-data-binding
 

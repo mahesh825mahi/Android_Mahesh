@@ -1,4 +1,4 @@
-package com.zmax.allsamples.Ionic;
+package com.zmax.allsamples.CrossPlatform.Ionic;
 
 /**
  * Created by Maheswaran on 10/8/2016.

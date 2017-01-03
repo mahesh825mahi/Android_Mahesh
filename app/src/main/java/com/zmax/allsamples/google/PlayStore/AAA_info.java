@@ -8,4 +8,5 @@ public class AAA_info {
 
     //CheckNewAppVersionAvailable
     //https://android-arsenal.com/details/1/4573
+
 }

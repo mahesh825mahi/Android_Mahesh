@@ -6,6 +6,10 @@ package com.zmax.allsamples.Android.Version;
 
 public class MaterialDesign
 {
+
+    //All Example
+    //https://inthecheesefactory.com/blog/android-design-support-library-codelab/en
+
 //Handling Scrolls with CoordinatorLayout
     //https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout
 }
